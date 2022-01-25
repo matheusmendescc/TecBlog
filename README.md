@@ -14,5 +14,5 @@ Para estudo📚
 <img src="https://user-images.githubusercontent.com/84646971/150782560-60c8e7aa-6662-451a-8d79-564d322f5f0f.png">.
 
 <div align="center">
-  <h1>⚠README EM DESENVOLVIMENTO⚠</h2>
+  <h1>⚠README EM DESENVOLVIMENTO⚠</h1>
 </div>
