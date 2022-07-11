@@ -11,7 +11,7 @@ Para estudo📚
 <li>CSS 3 <img align="center" alt="math-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></li>
 <br>
 
-> Você pode acessar este projeto em: https://mendespy.github.io/TecBlog/
+> Você pode acessar este projeto em: https://matheusmendescc.github.io/TecBlog/
 
 <img src="https://user-images.githubusercontent.com/84646971/150782560-60c8e7aa-6662-451a-8d79-564d322f5f0f.png">
 <img src="https://user-images.githubusercontent.com/84646971/151005219-cce76cfa-d613-43b3-b523-c23b396ad735.png">
