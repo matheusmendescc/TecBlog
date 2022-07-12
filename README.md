@@ -13,7 +13,4 @@ Para estudo📚
 
 > Você pode acessar este projeto em: https://matheusmendescc.github.io/TecBlog/
 
-<img src="https://user-images.githubusercontent.com/84646971/150782560-60c8e7aa-6662-451a-8d79-564d322f5f0f.png">
-<img src="https://user-images.githubusercontent.com/84646971/151005219-cce76cfa-d613-43b3-b523-c23b396ad735.png">
-<img src="https://user-images.githubusercontent.com/84646971/151005419-1e74bbc1-26e9-4566-b3da-bd5e24da44e6.png">
-<img src="https://user-images.githubusercontent.com/84646971/151005542-501fe315-3e58-4b79-a023-9705a305fbd5.png">
+<img src="https://user-images.githubusercontent.com/84646971/178492783-1e6b429e-e2f8-4afe-974d-d7f25c2eff90.gif">
